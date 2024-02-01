@@ -1,0 +1,8 @@
+Why is DevOps important?
+Even after a decade, DevOps is still evolving and a critical aspect of modern software development. It is a culture born on agility and failing fast. The influence of DevOps can be seen in other modern methodologies such as DataOps in the data science domain and MLOps for machine learning.
+
+More concretely, DevOps provides the practices and frameworks that guide the organization focused on software releases to collaborate through transparency and visibility into the whole release pipeline. This transparency leads to measurable ways to optimize the release process which in turn allows organizations to iterate on new ideas faster and adapt to change.
+
+DevOps influences software architecture as modern solutions are chosen and designed in a way that allows for the continuous deployment of the software. The huge ecosystem of DevOps tooling allows organizations to understand the state of their software releases and feed these findings back into the development process.
+
+The importance of DevOps cannot be understated as it brings a fundamental mindset that encourages iterative learning. This ability to try new things, quickly observe what works and what doesn’t drives an innovative mindset within teams and organizations.
