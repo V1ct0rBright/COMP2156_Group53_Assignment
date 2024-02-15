@@ -1,5 +1,5 @@
 
-Student Name: Berka Yilmaz
+Student Name: Berka Yilmaz,
 Student Number: 101426197
 
 Other Group Members:
