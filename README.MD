@@ -1,9 +1,5 @@
-
-Student Name: Berka Yilmaz,
-Student Number: 101426197
-
-Other Group Members:
-
+Group Members:
+Berka Yilmaz
 Pirouz Roshnazamir,
 Ceymi Can Soef,
 Bunmeet Singh,
