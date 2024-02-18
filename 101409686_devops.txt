@@ -1,4 +1,4 @@
-DEV
+D
 In this course, students will dive into DevOps best practices and tools to boost productivity in tech environments.
 They'll explore key developer operation frameworks and industry-standard tools, including Ansible and Git, through hands-on exercises. 
 The curriculum emphasizes solving complex business problems within the core responsibilities of a DevOps engineer. 
