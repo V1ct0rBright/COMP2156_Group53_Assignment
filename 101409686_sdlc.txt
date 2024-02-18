@@ -1,6 +1,7 @@
-DevOps remains vital in modern software development, a decade on, fostering a culture of agility and rapid iteration. 
+SDLC
+DevOps remains vital in modern software development, a decade on, fostering a culture of agility and rapid iteration.
 It's not just a practice but a transformative mindset influencing methodologies across domains, including DataOps and MLOps. 
 DevOps champions collaboration, transparency, and visibility throughout the software release process, enabling organizations to optimize and accelerate their release cycles. 
 This approach not only enhances software architecture for continuous deployment but also leverages a vast ecosystem of tools for insights into software performance. 
 The core of DevOps—iterative learning and the capacity to swiftly adapt—cultivates innovation within teams and organizations, underscoring its indispensable role in today's 
-tech landscape.
+tech landscape..
