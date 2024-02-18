@@ -2,4 +2,4 @@ In this course, students will dive into DevOps best practices and tools to boost
 They'll explore key developer operation frameworks and industry-standard tools, including Ansible and Git, through hands-on exercises. 
 The curriculum emphasizes solving complex business problems within the core responsibilities of a DevOps engineer. 
 Students will also learn about crucial data formats such as XML, JSON, YAML, and YANG, highlighting their importance in network automation. 
-This course aims to equip students with the skills to implement efficient DevOps solutions.
+This course aims to equip students with the skills to implement efficient DevOps solutions...
